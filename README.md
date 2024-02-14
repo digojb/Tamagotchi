@@ -20,7 +20,7 @@ Uma aplicação console em C# e .NET 8 que se conecta à API [Pokemon API](https
 <br>
 
 
-<img src ="./img/gif-2.gif">
+<img src ="./img/gif-3.gif">
 
 
 ## Técnologias utilizadas
